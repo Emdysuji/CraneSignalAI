@@ -91,7 +91,7 @@ CraneSignalAI/
 
 **Michael-David Osuji**  
 Machine Learning Engineer / Mechatronics Enthusiast  
-📫 [LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+📫 [LinkedIn](www.linkedin.com/in/michael-daivd-osuji-b1811a208) • [GitHub](https://github.com/Emdysuji)
 
 ---
 
