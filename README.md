@@ -82,3 +82,31 @@ CraneSignalAI/
 ├── crane_model_training.ipynb  # Full model training + export notebook
 ├── requirements.txt
 └── README.md
+```
+
+
+---
+
+## 🧑‍💻 Author
+
+**Michael-David Osuji**  
+Machine Learning Engineer / Mechatronics Enthusiast  
+📫 [LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Acknowledgements
+
+- [TensorFlow Model Garden – MoViNet](https://www.kaggle.com/code/minhdunk/movinet-streaming#Convert-to-TF-Lite)  
+- [Albumentations](https://albumentations.ai) – for high-performance image augmentations
+- [Crane Hand Signals Video Used For Dataset](https://www.youtube.com/results?search_query=crane+hand+signals) 
+
+---
+
